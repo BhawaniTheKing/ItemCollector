@@ -1,0 +1,20 @@
+# [ ItemCollector By BhawaniTheKing ] #
+
+
+# Config File
+# Version: 1.0.0
+# API: Pm5 Support
+
+# Mode Can Be Either "Whitelist" or "Blacklist".
+# Whitelist Ensures That ItemCollector Is Only Active In The Worlds Entered Below.
+# Blacklist Ensures That ItemCollector Is Deactivated In The Worlds Entered Below.
+Mode: blacklist
+
+# Set Whitelisted/Blacklisted Worlds Here.
+Worlds: []
+
+
+# Set A PoP-UP Message Here That Appears When The Player's Inventory Is Full.
+
+# Leave Blank To Disable PoP-UP Messages.
+Full_Inventory_PoPUP: "§r§7[§r§l§c!§r§7] §r§eYour Inventory Is Full"
